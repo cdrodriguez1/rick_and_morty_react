@@ -1,0 +1,34 @@
+.btn {
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+    font-size: 25px;
+    padding: 8px;
+}
+
+.img {
+    border-radius: 20px;
+    width: 350px;
+    border: groove;
+    margin-top: 20px;
+}
+
+.characters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px;
+}
+
+.font-color {
+    color: white;
+}
+
+body {
+    background-image: url(/src/images/5213.jpg);
+    width: 100%;
+    background-size: cover;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
