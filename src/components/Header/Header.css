@@ -1,10 +1,10 @@
 .active {
     color: aqua;
-    font-size: 50px;
+    font-size: 90px;
     padding: 8px;
-
 }
 
 a {
-    color: white;
+    font-size: 40px;
+    margin: 0 15px;
 }
