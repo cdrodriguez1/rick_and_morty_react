@@ -29,9 +29,9 @@ Contador.propTypes = {
     onChangePage: PropTypes.func.isRequired,
 };
 
+
 // otra forma de hacer el contador, pagina hacia adelante o hacia atrás
 // export default function Contador() {
-
 //     const [contador, setContador] = useState(1)
 
 //     const nextPage = () => {
